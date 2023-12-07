@@ -64,10 +64,6 @@ h1,h2 {
     display: flex;
     gap: 40px
 }
-
-.menu-item {
-    padding: 24px 0;
-}
 .menu-link {
     display: block;
     text-decoration: none;
@@ -75,6 +71,7 @@ h1,h2 {
     letter-spacing: 0.02em;
     font-weight: 500;
     line-height: 1.5;
+    padding: 24px 0;
 }
 .menu-link:hover,
 .menu-link:focus {
