@@ -36,9 +36,6 @@ h1,h2 {
     border-bottom: 1px solid #E7E9FC;
 }
 .container-main{ 
-    width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px;
     display: flex;
     justify-content: space-between;
 }
